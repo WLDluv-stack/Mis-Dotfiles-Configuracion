@@ -11,4 +11,5 @@ git clone https://github.com/WLDluv-stack/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./install.sh
 
+##captura
 https://github.com/WLDluv-stack/MIs_Dotfiles_Terminal/issues/1#issuecomment-4784888588
